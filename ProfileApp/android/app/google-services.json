@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873064999561",
+    "project_id": "atilq-assessment",
+    "storage_bucket": "atilq-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873064999561:android:6002e69112a3828a4eb458",
+        "android_client_info": {
+          "package_name": "com.profileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873064999561-r1oda0fduvhlva2l3gnla6aod3ko2h3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkLU0K0aJOzI-CiGDOyjiGxOZebS5MKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873064999561-r1oda0fduvhlva2l3gnla6aod3ko2h3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
